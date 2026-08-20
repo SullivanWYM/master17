@@ -1,5 +1,4 @@
 interface:
   display_name: "课程论文评分与评语"
-  short_description: "批量完成课程论文评分、总分计算和个性化评语"
-  default_prompt: "请读取论文、评分表和评语模板，完成分项评分、总分计算、总评核对和评语写作。"
-
+  short_description: "按教师标准完成论文小分、总评、评语和文件回填"
+  default_prompt: "请读取最新版论文与评分表，按课程论文评分 Skill 核对学生对应关系，完成分项评分、总分计算、内容化评语和交付检查。"

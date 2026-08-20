@@ -1,0 +1,14 @@
+# Office temporary files
+~$*.doc
+~$*.docx
+~$*.xls
+~$*.xlsx
+
+# Local student materials and generated outputs
+private/
+student-data/
+outputs/
+
+# Python
+__pycache__/
+*.pyc

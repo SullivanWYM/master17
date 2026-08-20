@@ -1,0 +1,82 @@
+{
+  "course": {
+    "name": "匿名案例分析课程",
+    "formula_mode": "weighted_components",
+    "paper_weight": 0.5,
+    "round_digits": 1,
+    "course_total_range": [80, 100],
+    "max_same_total": 2,
+    "comment_min_chars": 80,
+    "reason_min_chars": 20,
+    "rubric": {
+      "topic": 5,
+      "case_description": 25,
+      "knowledge": 25,
+      "writing": 20,
+      "innovation": 10,
+      "editing": 15
+    }
+  },
+  "students": [
+    {
+      "student_id": "ANON001",
+      "name": "学生甲",
+      "paper_type": "case-analysis",
+      "scores": {
+        "topic": 5,
+        "case_description": 24,
+        "knowledge": 23,
+        "writing": 19,
+        "innovation": 9,
+        "editing": 14
+      },
+      "paper_score": 94,
+      "attendance_score": 20,
+      "presentation_score": 30,
+      "course_total": 97.0,
+      "content_keywords": ["会员分层", "复购路径"],
+      "reason": "案例材料充分，会员分层与复购路径分析具体，理论和策略之间形成了清楚对应。",
+      "comment": "该论文选题与课程内容联系紧密，能够围绕会员运营中的分层触达和复购问题展开分析。文章对会员分层、社群触达和复购路径进行了较系统的梳理，并能运用顾客生命周期理论解释不同阶段的运营重点，案例事实与理论之间形成了较好的对应关系。论文结构完整，建议具有针对性；若能进一步补充部分数据来源和实施成本，结论会更具说服力。整体来看，论文完成质量较高，能够较好体现课程学习成果。"
+    },
+    {
+      "student_id": "ANON002",
+      "name": "学生乙",
+      "paper_type": "case-analysis",
+      "scores": {
+        "topic": 5,
+        "case_description": 22,
+        "knowledge": 22,
+        "writing": 18,
+        "innovation": 8,
+        "editing": 13
+      },
+      "paper_score": 88,
+      "attendance_score": 19,
+      "presentation_score": 28,
+      "course_total": 91.0,
+      "content_keywords": ["门店场景", "价格促销"],
+      "reason": "文章能结合门店场景分析价格促销，但理论解释深度、数据来源和策略优先级仍可加强。",
+      "comment": "该论文选题基本符合课程考核要求，能够结合门店场景分析品牌的价格促销和消费者反应。内容上，文章较清楚地梳理了折扣、套餐和会员券等主要做法，并注意到不同门店场景下促销效果存在差异，体现出一定的案例整理和理论联系实际能力。论文结构较完整，但部分判断的数据来源说明不足，所提出的建议在实施顺序和效果指标方面还可以继续细化。整体来看，学生对课程知识有较好的理解，论文完成度较好。"
+    },
+    {
+      "student_id": "ANON003",
+      "name": "学生丙",
+      "paper_type": "case-analysis",
+      "scores": {
+        "topic": 4,
+        "case_description": 20,
+        "knowledge": 20,
+        "writing": 17,
+        "innovation": 7,
+        "editing": 12
+      },
+      "paper_score": 80,
+      "attendance_score": 18,
+      "presentation_score": 27,
+      "course_total": 85.0,
+      "content_keywords": ["直播内容", "用户互动"],
+      "reason": "完成了直播内容和用户互动的基本整理，但研究问题、理论深度和引用规范存在明显提升空间。",
+      "comment": "该论文选题基本符合本课程考核内容的相关要求，完成了对品牌直播内容和用户互动方式的基本梳理。文章能够归纳主播讲解、优惠信息和评论区互动等主要环节，说明作者对案例内容有一定理解。但研究问题仍不够具体，理论运用主要停留在概念分类层面，对直播内容如何影响用户互动的分析较为概括；部分资料也缺少清楚的来源标注。整体来看，学生对课程知识有一定掌握，论文基本达到课程要求，但分析深度和规范性仍需加强。"
+    }
+  ]
+}

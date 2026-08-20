@@ -1,0 +1,30 @@
+{
+  "course": {
+    "formula_mode": "weighted_components",
+    "paper_weight": 0.5,
+    "round_digits": 1,
+    "comment_min_chars": 20,
+    "reason_min_chars": 10,
+    "rubric": {
+      "topic": 5,
+      "case_description": 25
+    }
+  },
+  "students": [
+    {
+      "student_id": "ANON-INVALID",
+      "name": "匿名测试",
+      "scores": {
+        "topic": 5,
+        "case_description": 20
+      },
+      "paper_score": 30,
+      "attendance_score": 20,
+      "presentation_score": 30,
+      "course_total": 60,
+      "content_keywords": ["案例事实"],
+      "reason": "过短",
+      "comment": "没有写入指定内容关键词。"
+    }
+  ]
+}
